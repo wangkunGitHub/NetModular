@@ -1,4 +1,5 @@
 ﻿{
+
   // 0、MemoryCache 1、Redis
   "Mode": 0,
   "Redis": {
